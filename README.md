@@ -7,7 +7,7 @@
 Web'den sistem programlamaya, kodla üretiyorum.
 
 <a href="https://discord.com/users/478985990829113355"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://www.instagram.com/ruhumoffline/"><img src="https://img.shields.io/badge/Instagram%20%40ruhumoffline-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: ruhumoffline" /></a>
+<a href="https://www.instagram.com/ruhumoffline/"><img src="https://img.shields.io/badge/Instagram%20%40ruhumoffline-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
 
